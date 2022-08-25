@@ -1,0 +1,8 @@
+OBJETIVO DEL SIMULADOR
+
+Mi proyecto se trata de una Ecommerce de ventas de impresoras 3D, maquinas de corte y grabado
+laser como asi tambien la comercialización de insumos. Debido a las cuestiones economicas tengo
+la constante necesidad de calcular los precios luego de los aumentos que ocuren constantemente
+en Argentina. Es por esto que decidi para este desafio generar un simulador de calculo de valor 
+de un producto de acuerdo a la cuota elegida. Esto modifica el precio agregando los intereses 
+impuestos por la tarjeta en cada caso y me sirve para de manera rapida modificar las publicaciones.
